@@ -18,3 +18,5 @@
 16) A, B
 17) B
 
+1) ![alt](https://github.com/hieuvcaws/kiemtra01/blob/main/Screenshot%202022-09-12%20at%2020.37.38.png)
+2) 
