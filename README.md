@@ -24,3 +24,5 @@
 3) ![alt](https://github.com/hieuvcaws/kiemtra01/blob/main/Screenshot%202022-09-12%20at%2021.10.52.png)
    ![alt](https://github.com/hieuvcaws/kiemtra01/blob/main/Screenshot%202022-09-12%20at%2021.11.36.png)
 4) ![alt](https://github.com/hieuvcaws/kiemtra01/blob/main/Screenshot%202022-09-12%20at%2021.41.15.png)
+   ![alt](https://github.com/hieuvcaws/kiemtra01/blob/main/Screenshot%202022-09-12%20at%2021.41.52.png)
+   Em bị fail ở đây, không biết sai do đâu ((
